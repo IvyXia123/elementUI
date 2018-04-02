@@ -1,0 +1,12 @@
+[
+  {"id":1,"username":"小花","sex":"女","city":"北京","sign":"小花","experience":76,"score":80,"classify":"二级","wealth":1000},
+  {"id":2,"username":"小明","sex":"男","city":"北京","sign":"小明","experience":65,"score":80,"classify":"二级","wealth":1000},
+  {"id":3,"username":"小红","sex":"女","city":"上海","sign":"小红","experience":15,"score":80,"classify":"三级","wealth":1000},
+  {"id":4,"username":"小草","sex":"女","city":"北京","sign":"小草","experience":27,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000},
+  {"id":5,"username":"小绿","sex":"男","city":"深圳","sign":"小绿","experience":53,"score":80,"classify":"二级","wealth":1000}
+]
